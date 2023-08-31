@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "compactslider",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/buh/CompactSlider",
+      "state" : {
+        "revision" : "6d591a76caecd583ad69fbcd06f2fb83135318c0",
+        "version" : "1.1.5"
+      }
+    },
+    {
+      "identity" : "lnpopupcontroller",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/LeoNatan/LNPopupController.git",
+      "state" : {
+        "revision" : "aa01292e474a17edd5de57326a0d7dedbf90c884",
+        "version" : "2.15.1"
+      }
+    },
+    {
+      "identity" : "lnpopupui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/LeoNatan/LNPopupUI",
+      "state" : {
+        "revision" : "ed842461d835ee0cfcce430c1a0d68d74e3c9f95",
+        "version" : "1.5.0"
+      }
+    }
+  ],
+  "version" : 2
+}
